@@ -569,6 +569,9 @@ small {
   background-color: #4d0080 !important;
 }
 
+#experience .card-title{
+  font-size: 20px !important;
+}
 /* .teal {
   background-color: #00695c !important;
 } */
